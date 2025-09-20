@@ -14,3 +14,7 @@ The agent acts like an ML professor — explaining concepts with analogies, emoj
 ---
 
 ## 📂 Project Structure
+ML_Professor_Project-main/
+│── ML_Proff.ipynb   # Main notebook with the ML Professor agent
+│── README.md        # Project documentation
+│
